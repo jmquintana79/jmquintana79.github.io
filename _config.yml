@@ -2,7 +2,3 @@ title: "MyDocs"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "black"
 search_enabled: true
-# custom colors
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
