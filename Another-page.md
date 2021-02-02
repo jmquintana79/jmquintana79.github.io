@@ -1,12 +1,12 @@
 ---
-title: Test
+title: Blog
 has_children: true
-nav_order: 2
+nav_order: 1
 ---
 
-# Another page
+# Blog
 
-Test this
+Esta es la pagina principal del Blog. 
 
 
 blah
