@@ -1,10 +1,10 @@
 ---
-title: Child of Test
-parent: Test
+title: Post1
+parent: Blog
 has_children: true
 nav_order: 1
 ---
 
-# Child of test
+# Post1
 
-I am a child page.
+Este es el primer post. 
