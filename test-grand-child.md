@@ -1,8 +1,8 @@
 ---
-title: Granchild of Test
-parent: Child of Test
-grand_parent: Test
+title: Post11
+parent: Post1
+grand_parent: Blog
 nav_order: 1
 ---
 
-# I am a grand child of test
+# Soy el post 11
