@@ -1,7 +1,7 @@
 ---
 title: "Manual1"
 has_children: true
-nav_order: True
+nav_order: 6
 ---
 
 # Manual 1
