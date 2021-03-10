@@ -15,7 +15,7 @@ Las herramientas a tener en cuenta para un proyecto de Data Science pueden ser c
 
 Esta es la compilación de herramientas que normalmente uso:
 
-* [**Linux commands for Data Science**](https://sites.google.com/view/notesds/tools/tools-linux-commands-para-data-science)**.**
+* [**Linux commands for Data Science**](https://jmquintana79.github.io/tools/linux_commands.html)**.**
 * **Lenguajes de programación**: [Python3](https://www.python.org/download/releases/3.0/) y eventualmente [R](https://www.r-project.org/).
 * **Scripting tools**: [Jupyter](https://jupyter.org/) notebooks, [SublimeText3](https://www.sublimetext.com/), [Spyder IDE](https://www.spyder-ide.org/).
 * **Exploratory Data Analysis tools**: [Jupyter](https://jupyter.org/) notebooks, [Orange](https://orangedatamining.com/), [Knime](https://www.knime.com/), [Mondrian](http://www.theusrus.de/Mondrian/), [Glue](http://glueviz.org/), [Facets](https://github.com/PAIR-code/facets) (for Jupyter), [GitHub/pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) (for Jupyter)

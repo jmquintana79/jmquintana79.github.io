@@ -1,5 +1,5 @@
 ---
-title: Linux commands for Data Science
+title: Linux commands for DS
 parent: Tools
 has_children: false
 nav_order: 1
