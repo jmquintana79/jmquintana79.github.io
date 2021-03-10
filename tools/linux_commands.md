@@ -1,5 +1,5 @@
 ---
-title: Post1
+title: Linux commands for Data Science
 parent: Tools
 has_children: false
 nav_order: 1
