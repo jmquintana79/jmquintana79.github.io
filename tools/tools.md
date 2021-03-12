@@ -20,7 +20,7 @@ Esta es la compilación de herramientas que normalmente uso:
 * **Scripting tools**: [Jupyter](https://jupyter.org/) notebooks, [SublimeText3](https://www.sublimetext.com/), [Spyder IDE](https://www.spyder-ide.org/).
 * **Exploratory Data Analysis tools**: [Jupyter](https://jupyter.org/) notebooks, [Orange](https://orangedatamining.com/), [Knime](https://www.knime.com/), [Mondrian](http://www.theusrus.de/Mondrian/), [Glue](http://glueviz.org/), [Facets](https://github.com/PAIR-code/facets) (for Jupyter), [GitHub/pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) (for Jupyter)
 * **Features Engineering**: [FeatureTools](https://www.featuretools.com/).
-* [**Librerías Python**](https://sites.google.com/view/notesds/tools/tools-librerías-python)**.
+* [**Librerías Python**](https://sites.google.com/view/notesds/tools/tools-librerías-python).
 * **Python Package Manager**: [PyPi](https://pypi.org/), [Anaconda](https://anaconda.org/).
 * [**Supervised Learning pipeline**](https://sites.google.com/view/notesds/tools/tools-supervised-learning-pipeline).
 * [**Unsupervised Learning**](https://sites.google.com/view/notesds/tools/tools-unsupervised-learning).
