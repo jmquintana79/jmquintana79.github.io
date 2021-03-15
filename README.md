@@ -1,35 +1,23 @@
-# MyWeb
+# Mi blog de notas
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Este espacio es un simple blog de notas, en general sobre cualquier cosa que lea, me llame la atención o digna de mención, y en particular sobre metodologias a seguir en un proyecto Data Science asi como de conocimientos que voy adquiriendo en mi proceso continuo de aprendizaje.
 
-### Markdown
+¿Por qué escribir el contenido en español? Hay dos razones fundamentales para escribir esta web en español:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* La primera razón es por mi comodidad: mi lengua madre es el español, y aunque en mi vida diaria uso el inglés y no tengo ningún problema en leer y escribir en esta lengua, mi tiempo es muy limitado tanto para leer como escribir mis propias notas. El hecho de usar mi propio idioma facilita tanto mi tarea de incluir nuevas anotaciones como de consultar la información.
+* Por comodidad de hispano-hablantes: documentación en inglés no falta, es más, es mayoritario el uso de esta lengua. A pesar de que las personas que vean útil esta información supongo que están mas que acostumbrados a leer documentación en inglés, para los hispano-hablantes, igual que a mí nos será mucho más cómodo consultar en nuestro propio idioma. Por tanto, dado que inglés ya hay mucho, ¿por qué no en español?.
 
-```markdown
-Syntax highlighted code block
+### Template de este sitio
 
-# Header 1
-## Header 2
-### Header 3
+Este sitio usa el Jekyll theme para documentación [just-the-docs](https://github.com/pmarsceill/just-the-docs) (de [pmarsceill](https://github.com/pmarsceill)) dada su sencillez y facilicidad de uso. Unos de los *features* que me ha parecido más interesante es que la escritura se hace en Markdown y la posibilidad de introducir nuevas *entradas* sin mas que incluir un nuevo fichero en este mismo formato.
 
-- Bulleted
-- List
+#### Ayudas:
 
-1. Numbered
-2. List
+* [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* [Theme documenation](https://pmarsceill.github.io/just-the-docs/).
+* [Theme Customization](https://pmarsceill.github.io/just-the-docs/docs/customization/#use-a-custom-scheme).
+* [Navigation Structure](https://pmarsceill.github.io/just-the-docs/docs/navigation-structure/).
 
-**Bold** and _Italic_ and `Code` text
+#### Support or Contact
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pmarsceill/test-jtd/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Problemas con Pages? Revisar esta [documentation](https://help.github.com/categories/github-pages-basics/) ó [contact support](https://github.com/contact) .
