@@ -6,4 +6,4 @@ nav_order: 1
 
 # About
 
-![Mi CV](./_imgs/cv.png)
+!["Mi CV in about"](./_imgs/cv.png)
