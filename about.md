@@ -6,4 +6,4 @@ nav_order: 1
 
 # About
 
-Aqui hablo sobre mi, especialmente en el ambito profesional.
+！[Mi CV](_imgs/cv.png)
