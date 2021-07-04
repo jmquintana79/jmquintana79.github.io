@@ -6,4 +6,4 @@ nav_order: 1
 
 # About
 
-!["Mi CV updated"](https://github.com/jmquintana79/jmquintana79.github.io/blob/main/_imgs/cv.png)
+!["Jirafa"](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Giraffe08_-_melbourne_zoo_edit.jpg/1200px-Giraffe08_-_melbourne_zoo_edit.jpg)
