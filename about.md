@@ -6,4 +6,4 @@ nav_order: 1
 
 # About
 
-!["Mi CV"](/_imgs/cv.png)
+!["Mi CV updated"](https://github.com/jmquintana79/jmquintana79.github.io/blob/main/_imgs/cv.png)
