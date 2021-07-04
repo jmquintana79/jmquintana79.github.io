@@ -106,11 +106,11 @@ Un gran inconveniente de los métodos estadísticos es que requieren una complej
 
 # Tareas comunes de NLP
 
-RESUMEN:
-```
-- Procesamiento del texto: tokenizacion (separar palabras), stop words (filtrado).
+## RESUMEN:
+
+- **Procesamiento del texto**: tokenizacion (separar palabras), stop words (filtrado).
     
-- Analisis morfologico (partes de una palabra): lematizacion (raiz), stemming (base), segmentacion (partes de palabra).
+- **Analisis morfologico (partes de una palabra)**: lematizacion (raiz), stemming (base), segmentacion (partes de palabra).
 
 	- Converting text to features
 	- using One Hot Encoding.
@@ -123,13 +123,13 @@ RESUMEN:
     - implementing fastText.
 > Esta parte de la conversion del texto en features pertenece al libro *"Natural Language Processing Recipes Unlocking Text Data with Machine Learning and Deep Learning using Python"*,  by Akshay Kulkarni, Adarsha Shivananda.
 
-- Analisis sintactico (jerarquia de palabras en oracion): inferencia de gramatica, sentence breaking, parsing (clasificacion de componentes).
+- **Analisis sintactico (jerarquia de palabras en oracion)**: inferencia de gramatica, sentence breaking, parsing (clasificacion de componentes).
 
-- Semantica (significado):
-    - Semantica lexica (significado de las palabras): Named entity recognition (NER), Sentiment analysis, etc.
-	- Semantica de oraciones individuales (significado sentences): relaciones entre fragmentos, etiquetado de significado, eliminacion de la ambigüedad.
-	- Semantica mas alla de oracion indiv (significado de discurso): agrupacion de palabras relacionadas, relaciones entre sentences, **reconocimiento de topic** (tema) de segmentos (fragmentos de un texto), mineria del argumento de un texto. 
-```
+- **Semantica (significado)**:
+    - *Semantica lexica (significado de las palabras)*: Named entity recognition (NER), Sentiment analysis, etc.
+	- *Semantica de oraciones individuales (significado sentences)*: relaciones entre fragmentos, etiquetado de significado, eliminacion de la ambigüedad.
+	- *Semantica mas alla de oracion indiv (significado de discurso)*: agrupacion de palabras relacionadas, relaciones entre sentences, **reconocimiento de topic** (tema) de segmentos (fragmentos de un texto), mineria del argumento de un texto. 
+
 
 
 ## Procesamiento de texto
