@@ -1,6 +1,6 @@
 ---
 title: Matematicas
-has_children: true
+has_children: false
 nav_exclude: true
 ---
 
