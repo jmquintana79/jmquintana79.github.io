@@ -211,7 +211,7 @@ donde para calcular P(observed outcome) hay que usar la regla de la suma para el
 P(x) = (n s) * p^s (1-p)^(n-s)
 ```
 donde:
-- n = number of independendt trials (with replacement)
+- n = number of independent trials (with replacement)
 - s = number of success / n - s = number of failures
 - p = probability of success / 1 - p = q = probability of failure
 
