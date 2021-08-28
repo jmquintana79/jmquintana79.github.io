@@ -206,7 +206,7 @@ donde para calcular P(observed outcome) hay que usar la regla de la suma para el
 
 ## THE BINOMIAL THEOREM AND BAYES THEOREM:
 - **Se llama binomial porque solo hay dos posibles outcomes (success, non-success)**.
-- Sea _P(x)_ la probabilidad de tener exactamente _s_ éxitos entre _n_ intentos o ensayos.
+- Sea _P(x)_ la probabilidad de tener exactamente _s_ éxitos entre _n_ intentos o ensayos:
 ```
 P(x) = (n s) * p^s (1-p)^(n-s)
 
@@ -214,6 +214,8 @@ donde:
 - n = number of independendt trials (with replacement)
 - s = number of success / n - s = number of failures
 - p = probability of success / 1 - p = q = probability of failure
+
 ```
+
 > El problema de tirar moneda se puede usar con Bayes tomando B como un resultado observado, A1 binomial con una moneda "justa", A2 con una moneda trucada. 
 
