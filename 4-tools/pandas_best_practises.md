@@ -1,6 +1,6 @@
 ---
 title: Pandas best practises
-parent: Linux commands for DS
+parent: Python libraries
 grand_parent: Tools
 nav_order: 1
 ---
