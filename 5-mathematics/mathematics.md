@@ -1,7 +1,7 @@
 ---
 title: Matematicas
-has_children: false
-nav_exclude: true
+has_children: true
+nav_exclude: false
 ---
 
 # Matematicas
