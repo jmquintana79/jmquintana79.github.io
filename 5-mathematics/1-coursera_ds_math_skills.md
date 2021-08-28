@@ -186,7 +186,7 @@ Y:   y1  P(x1,y1)   P(x2, y1)
 ```
 P(Ai ¦ B) = P(B ¦ Ai) * P(Ai) / P(B)
 ```
-donde `P(B) = P(B,A1) + P(B,A2) = P(B ¦ A1) * P(A1) + ... + P(B ¦ An) * P(An)` y donde *P(Ai) = *prior probability*.
+donde `P(B) = P(B,A1) + P(B,A2) = P(B ¦ A1) * P(A1) + ... + P(B ¦ An) * P(An)` y donde *P(Ai) = prior probability*.
 - Es para tipo de problema inverso:
 ```
  P(parameter process ¦ observed outcome) = P(observed outcome ¦ parameter process) * P(parameter processs) / P(observed outcome)
@@ -206,13 +206,14 @@ donde para calcular P(observed outcome) hay que usar la regla de la suma para el
 
 ## THE BINOMIAL THEOREM AND BAYES THEOREM:
 - **Se llama binomial porque solo hay dos posibles outcomes (success, non-success)**.
-- Sea:
-    - *n* = number of independendt trials (with replacement)
-    - *s* = number of success / n - s = number of failures
-    - *p* = probability of success / 1 - p = q = probability of failure
-entonces:
+- Sea _P(x)_ la probabilidad de tener exactamente _s_ éxitos entre _n_ intentos o ensayos.
 ```
-P = (n s) * p^s (1-p)^(n-s)
+P(x) = (n s) * p^s (1-p)^(n-s)
+
+donde:
+- n = number of independendt trials (with replacement)
+- s = number of success / n - s = number of failures
+- p = probability of success / 1 - p = q = probability of failure
 ```
 > El problema de tirar moneda se puede usar con Bayes tomando B como un resultado observado, A1 binomial con una moneda "justa", A2 con una moneda trucada. 
 
