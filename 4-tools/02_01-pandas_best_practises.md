@@ -2,7 +2,7 @@
 title: Pandas best practises
 parent: Python libraries
 grand_parent: Tools
-nav_order: 1
+nav_order: 4
 ---
 
 # Pandas Best Practises

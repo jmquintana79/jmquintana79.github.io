@@ -2,7 +2,7 @@
 title: Linux commands for DS
 parent: Tools
 has_children: false
-nav_order: 1
+nav_order: 4
 ---
 
 # Linux commands for Data Science
