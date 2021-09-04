@@ -16,16 +16,19 @@ Me parece un institución muy interesante porque se dedica directamente a aplica
 
 ---
 
-#  [International Institute of Forecasters](https://forecasters.org/)
-Ya he pertenecido a este instituto y sus beneficios son interesantes. Es cierto, que la revista al final no la leí demasiado pero aborda problemas de la vida real que podrían ser interesantes en la actualidad. No obstante, tengo que pensar si realmentes es de interés para mí enfocarme más en la parte de *forecasting* o de *analytics*.
+#  [International Institute of Forecasters (IFF)](https://forecasters.org/)
+Ya he pertenecido a este instituto y sus beneficios son interesantes. Es cierto, que la revista al final no la leí demasiado pero aborda problemas de la vida real que podrían ser interesantes en la actualidad. No obstante, tengo que pensar si realmentes es de interés para mí enfocarme más en la parte de *forecasting* o de *analytics*. Uno de los aspectos que menos me gustan es que no posee una certificación online.
 ![logo](https://forecasters.org/wp-content/themes/forecasters/images/logo-new.png)
 
 - [Membership Benefits](https://forecasters.org/membership/benefits/)
 
 ---
-# [School of Data Science - Virginia Univ.](https://datascience.virginia.edu/)
+# [Institute of Business Forecasting & Planning (IBF)](https://ibf.org)
 
-Hay varios programas de estudios muy interesantes, incluidos un programa *online* y un *PhD*. El problema es que, en general, o son presenciales o muy caros. Me temo que esto ya no es para  mí.
+Este instituto está muy enfocado en *demmand forecasting and analytics*. Me parece interesante que da la impresión de que abarca los dos mundos aunque con un mayor interés en el *forecasting* pero está demasiado enfocado en un sólo campo y eso no me gusta. La buena noticia es que te tiene un programa de certificación muy interesante. La mala noticia es que tanto la certificación como ser membership son caros. 
 
-![UVA](https://news.virginia.edu/sites/default/files/dss_collage_header_3-2.jpg)
+- [Become a membership.](https://ibf.org/ibfmembership)
+- [Certification.](https://ibf.org/business-analytics-certification)
+
+
 
