@@ -27,6 +27,8 @@ Ya he pertenecido a este instituto y sus beneficios son interesantes. Es cierto,
 
 Este instituto está muy enfocado en *demmand forecasting and analytics*. Me parece interesante que da la impresión de que abarca los dos mundos aunque con un mayor interés en el *forecasting* pero está demasiado enfocado en un sólo campo y eso no me gusta. La buena noticia es que te tiene un programa de certificación muy interesante. La mala noticia es que tanto la certificación como ser membership son caros. 
 
+![logo](https://ibf.org/site_assets/img/logo.png)
+
 - [Become a membership.](https://ibf.org/ibfmembership)
 - [Certification.](https://ibf.org/business-analytics-certification)
 
