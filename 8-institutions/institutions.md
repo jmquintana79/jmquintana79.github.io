@@ -25,6 +25,7 @@ Ya he pertenecido a este instituto y sus beneficios son interesantes. Es cierto,
 ![logo](https://forecasters.org/wp-content/themes/forecasters/images/logo-new.png)
 
 - [Membership Benefits](https://forecasters.org/membership/benefits/)
+- [List of FORESIGHT journal contents in previous issues](https://forecasters.org/wp-content/uploads/62_TOC-cum.pdf)
 
 ---
 # [Institute of Business Forecasting & Planning (IBF)](https://ibf.org)
