@@ -13,6 +13,10 @@ Me parece un institución muy interesante porque se dedica directamente a aplica
 - [Member Benefits](https://www.informs.org/About-INFORMS/Member-Benefits): La verdad es que no están nada mal aunque está muy enfocado al mundo Analytics. 
 - [INFORMS Academic Program Database](https://www.informs.org/Resource-Center/INFORMS-Academic-Program-Database)
 - [Certified Analytics Professional (CAP)](https://www.certifiedanalytics.org/index.php)
+- [How to Pass the Certified Analytics Professional Exam: 9 Tips](https://analyticsexplained.com/how-to-pass-the-certified-analytics-professional-exam-9-tips/)
+
+![Certified Analytics Professional exam: problema-solvind methods](https://i1.wp.com/analyticsexplained.com/wp-content/uploads/2020/07/CAP-Problem-Solving-Methods-2.png?resize=1080%2C608&ssl=1)
+
 
 ---
 
