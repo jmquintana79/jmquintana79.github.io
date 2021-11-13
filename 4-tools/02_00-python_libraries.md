@@ -50,6 +50,7 @@ Este es un blog de notas donde incluyo una lista de librerías Python o recursos
 * [**cleantext**](https://pypi.org/project/cleantext/): Herramienta definitiva para limpiar texto con multiples opciones customizables. Ver este [notebook](https://github.com/jmquintana79/utilsDS/blob/master/notebooks/nlp/text_cleaning-with_cleantext-multilanguage.ipynb).
 * [**langdetect**](https://pypi.org/project/langdetect/): Deteccion de idioma e incluso múltiples idiomas en el mismo texto. Ver este [notebook](https://github.com/jmquintana79/utilsDS/blob/master/notebooks/nlp/language_detection-with_langdetect.ipynb).
 * [**google**](https://www.geeksforgeeks.org/performing-google-search-using-python-code/): Librería para hacer web searching desde Python sin Google API credentials. Ver este [notebook](https://github.com/jmquintana79/utilsDS/blob/master/notebooks/nlp/web_search-google_library.ipynb).
+* [**newspaper**](https://github.com/codelucas/newspaper/): Libreria para scrappear articulos (noticias, entradas de blogs, etc), limpieza de texto y extracción de keywords y summary. Ver este [notebook](https://github.com/jmquintana79/utilsDS/blob/master/notebooks/nlp/scrapping_website-with_newspaper.ipynb).
 
 #### Data generator
 
@@ -58,6 +59,7 @@ Este es un blog de notas donde incluyo una lista de librerías Python o recursos
 #### Data Scrapping
 
 * [**Scrapy**](https://www.google.com/url?q=https%3A%2F%2Fscrapy.org%2F&sa=D&sntz=1&usg=AFQjCNHYCKo7_ZGg2yyhBAw-nah_QTwdGQ): Es la libreria de scrapping mas conocida. Para mi hay herramientas mas simples pero esta es muy buena automatizando.
+* [**newspaper**](https://github.com/codelucas/newspaper/): Libreria para scrappear articulos (noticias, entradas de blogs, etc), limpieza de texto y extracción de keywords y summary. Ver este [notebook](https://github.com/jmquintana79/utilsDS/blob/master/notebooks/nlp/scrapping_website-with_newspaper.ipynb).
 
 ---
 
