@@ -45,8 +45,11 @@ Este es un blog de notas donde incluyo una lista de librerías Python o recursos
 #### NLP:
 
 * [**NLTK**](https://www.google.com/url?q=https%3A%2F%2Fwww.nltk.org%2F&sa=D&sntz=1&usg=AFQjCNEnV2KI7wCOl3HrUNd8f-_5Aj-gYw)
-* [**Spacy**](https://www.google.com/url?q=https%3A%2F%2Fspacy.io%2F&sa=D&sntz=1&usg=AFQjCNFBGy33uUWn3gdYH_f6alIIPOCmWg): Ya he trabajado con ella. La instalacion de los multimos idiomas es muy sencilla. Incluye herramientas de procesado de texto pero lo mejor son las *entities*.
-* [**gensim**](https://www.google.com/url?q=https%3A%2F%2Fradimrehurek.com%2Fgensim%2F&sa=D&sntz=1&usg=AFQjCNG0xOWIYifNbrTugl9kKJmtKz8_-Q): topic modelling.
+* [**Spacy**](https://www.google.com/url?q=https%3A%2F%2Fspacy.io%2F&sa=D&sntz=1&usg=AFQjCNFBGy33uUWn3gdYH_f6alIIPOCmWg): Ya he trabajado con ella. La instalacion de los múltiples idiomas es muy sencilla. Incluye herramientas de procesado de texto pero lo mejor son las *entities*.
+* [**gensim**](https://www.google.com/url?q=https%3A%2F%2Fradimrehurek.com%2Fgensim%2F&sa=D&sntz=1&usg=AFQjCNG0xOWIYifNbrTugl9kKJmtKz8_-Q): Topic modelling.
+* [**cleantext**](https://pypi.org/project/cleantext/): Herramienta definitiva para limpiar texto con multiples opciones customizables. Ver este [notebook](https://github.com/jmquintana79/utilsDS/blob/master/notebooks/nlp/text_cleaning-with_cleantext-multilanguage.ipynb).
+* [**langdetect**](https://pypi.org/project/langdetect/): Deteccion de idioma e incluso múltiples idiomas en el mismo texto. Ver este [notebook](https://github.com/jmquintana79/utilsDS/blob/master/notebooks/nlp/language_detection-with_langdetect.ipynb).
+* [**google**](https://www.geeksforgeeks.org/performing-google-search-using-python-code/): Librería para hacer web searching desde Python sin Google API credentials. Ver este [notebook](https://github.com/jmquintana79/utilsDS/blob/master/notebooks/nlp/web_search-google_library.ipynb).
 
 #### Data generator
 
