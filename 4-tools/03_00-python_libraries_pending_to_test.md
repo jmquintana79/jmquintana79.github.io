@@ -25,4 +25,6 @@ nav_order: 4
 * [**PyFlux**](https://www.google.com/url?q=https%3A%2F%2Fpyflux.readthedocs.io%2Fen%2Flatest%2F&sa=D&sntz=1&usg=AFQjCNHCg1vR61bqPXEyNrGijHAsSUMxMw): it is an open source library in Python explicitly built for working with **time series** problems. The library has an excellent array of modern time series models including but not limited to **ARIMA, GARCH** and **VAR** models. In short, PyFlux offers a probabilistic approach to time series modelling.
 * [**Shogun**](https://www.google.com/url?q=https%3A%2F%2Fwww.shogun-toolbox.org%2F&sa=D&sntz=1&usg=AFQjCNH7tHjjDSpTIj7sMAcc6Xa09-1PDA): it is and open-source machine learning library that offers a wide range of efficient and unified machine learning methods. Sus puntos fuertes son su buen performance, facilidad de uso y sobretodo ser multiplaforma (Python, R, Java/Scala, etc) y pasar de uno a otro de manera muy sencilla.
 
-
+#### Data Analysis tools
+* [Comparison of F-test and mutual information](https://scikit-learn.org/stable/auto_examples/feature_selection/plot_f_test_vs_mi.html)
+* 
