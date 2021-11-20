@@ -42,7 +42,11 @@ Este es un blog de notas donde incluyo una lista de librerías Python o recursos
 * [**vaex**](https://vaex.io/docs/index.html): Pandas accelerator muy poderoso. Ya lo he probado [aqui](https://github.com/jmquintana79/utilsDS/blob/master/notebooks/pandas_accelerators/overview-vaex.ipynb).
 * [**Modin.Pandas**](https://www.google.com/url?q=https%3A%2F%2Fmodin.readthedocs.io%2Fen%2Flatest%2F&sa=D&sntz=1&usg=AFQjCNG29bwPv-t4T-FASNQTfPKRkXXZPA): Pandas accelerator muy facil de usar. 
 
-#### Temporal series
+#### Python accelerators 
+
+* [**Ray**](https://pypi.org/project/ray/#description): It provides a simple, universal API for building distributed applications.
+
+#### Timeseries
 
 * [**jenkspy**](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fmthh%2Fjenkspy&sa=D&sntz=1&usg=AFQjCNHaCDdcyLpnTu4SRuX_dvS_Lw2j4Q): detección de natural breaks en una serie temporal. Interesante este [post](https://www.google.com/url?q=https%3A%2F%2Fpbpython.com%2Fnatural-breaks.html&sa=D&sntz=1&usg=AFQjCNGiJqjfI5Wp3qqH8tshXyF4aIJXnQ) en el que se compara el uso de esta librería con tools de Pandas.
 
@@ -50,7 +54,7 @@ Este es un blog de notas donde incluyo una lista de librerías Python o recursos
 
 * [**Geopandas**](https://www.google.com/url?q=https%3A%2F%2Fgeopandas.org%2F&sa=D&sntz=1&usg=AFQjCNG87v8Dh8eUFsFQbA4CW9K9ik6d-A): librería que mezcla lo mejor de Pandas con herramientas geoespaciales de gran utilidad.
 
-#### NLP:
+#### NLP
 
 * [**NLTK**](https://www.google.com/url?q=https%3A%2F%2Fwww.nltk.org%2F&sa=D&sntz=1&usg=AFQjCNEnV2KI7wCOl3HrUNd8f-_5Aj-gYw)
 * [**Spacy**](https://www.google.com/url?q=https%3A%2F%2Fspacy.io%2F&sa=D&sntz=1&usg=AFQjCNFBGy33uUWn3gdYH_f6alIIPOCmWg): Ya he trabajado con ella. La instalacion de los múltiples idiomas es muy sencilla. Incluye herramientas de procesado de texto pero lo mejor son las *entities*.
@@ -59,6 +63,11 @@ Este es un blog de notas donde incluyo una lista de librerías Python o recursos
 * [**langdetect**](https://pypi.org/project/langdetect/): Deteccion de idioma e incluso múltiples idiomas en el mismo texto. Ver este [notebook](https://github.com/jmquintana79/utilsDS/blob/master/notebooks/nlp/language_detection-with_langdetect.ipynb).
 * [**google**](https://www.geeksforgeeks.org/performing-google-search-using-python-code/): Librería para hacer web searching desde Python sin Google API credentials. Ver este [notebook](https://github.com/jmquintana79/utilsDS/blob/master/notebooks/nlp/web_search-google_library.ipynb).
 * [**newspaper**](https://github.com/codelucas/newspaper/): Libreria para scrappear articulos (noticias, entradas de blogs, etc), limpieza de texto y extracción de keywords y summary. Ver este [notebook](https://github.com/jmquintana79/utilsDS/blob/master/notebooks/nlp/scrapping_website-with_newspaper.ipynb).
+* [**AmpliGraph**](https://docs.ampligraph.org/en/1.4.0/index.html): It is library that predicts links between concepts in a **knowledge graph**.
+
+#### Optimization
+
+* [**DEAP**](https://pypi.org/project/deap/): It is a novel evolutionary computation framework for rapid prototyping and testing of ideas. Recomendado por Jose Luis (*Tessella*).
 
 #### Data generator
 
@@ -68,6 +77,14 @@ Este es un blog de notas donde incluyo una lista de librerías Python o recursos
 
 * [**Scrapy**](https://www.google.com/url?q=https%3A%2F%2Fscrapy.org%2F&sa=D&sntz=1&usg=AFQjCNHYCKo7_ZGg2yyhBAw-nah_QTwdGQ): Es la libreria de scrapping mas conocida. Para mi hay herramientas mas simples pero esta es muy buena automatizando.
 * [**newspaper**](https://github.com/codelucas/newspaper/): Libreria para scrappear articulos (noticias, entradas de blogs, etc), limpieza de texto y extracción de keywords y summary. Ver este [notebook](https://github.com/jmquintana79/utilsDS/blob/master/notebooks/nlp/scrapping_website-with_newspaper.ipynb).
+
+#### Coding projects structure
+
+* [**Cookiecutter DS**](https://drivendata.github.io/cookiecutter-data-science/): A logical, reasonably standardized, but flexible project structure for doing and sharing data science work._
+
+#### Code testing
+
+* [**Tox**](https://tox.wiki/en/latest/): It aims to automate and standardize testing in Python. It is part of a larger vision of easing the packaging, testing and release process of Python software.
 
 ---
 
