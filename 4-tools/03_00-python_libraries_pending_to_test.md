@@ -22,12 +22,12 @@ nav_order: 4
 * [**FEDOT**](https://github.com/nccr-itmo/FEDOT): It is an open-source framework for automated modeling and machine learning (AutoML).
 
 #### Machine Learning tools
-* [**mlxtend**](http://www.google.com/url?q=http%3A%2F%2Frasbt.github.io%2Fmlxtend%2F&sa=D&sntz=1&usg=AFQjCNHKU4dWShMtNTfy4OwKAr2PXZLfyw): librería de herramientas útiles para el día a día en tareas de ciencia de datos desarrolladas por Sebastian Raschka.
-* [**PyFlux**](https://www.google.com/url?q=https%3A%2F%2Fpyflux.readthedocs.io%2Fen%2Flatest%2F&sa=D&sntz=1&usg=AFQjCNHCg1vR61bqPXEyNrGijHAsSUMxMw): it is an open source library in Python explicitly built for working with **time series** problems. The library has an excellent array of modern time series models including but not limited to **ARIMA, GARCH** and **VAR** models. In short, PyFlux offers a probabilistic approach to time series modelling.
-* [**Shogun**](https://www.google.com/url?q=https%3A%2F%2Fwww.shogun-toolbox.org%2F&sa=D&sntz=1&usg=AFQjCNH7tHjjDSpTIj7sMAcc6Xa09-1PDA): it is and open-source machine learning library that offers a wide range of efficient and unified machine learning methods. Sus puntos fuertes son su buen performance, facilidad de uso y sobretodo ser multiplaforma (Python, R, Java/Scala, etc) y pasar de uno a otro de manera muy sencilla.
+* [**mlxtend**](http://www.google.com/url?q=http%3A%2F%2Frasbt.github.io%2Fmlxtend%2F&sa=D&sntz=1&usg=AFQjCNHKU4dWShMtNTfy4OwKAr2PXZLfyw): Librería de herramientas útiles para el día a día en tareas de ciencia de datos desarrolladas por Sebastian Raschka.
+* [**Shogun**](https://www.google.com/url?q=https%3A%2F%2Fwww.shogun-toolbox.org%2F&sa=D&sntz=1&usg=AFQjCNH7tHjjDSpTIj7sMAcc6Xa09-1PDA): It is and open-source machine learning library that offers a wide range of efficient and unified machine learning methods. Sus puntos fuertes son su buen performance, facilidad de uso y sobretodo ser multiplaforma (Python, R, Java/Scala, etc) y pasar de uno a otro de manera muy sencilla.
 
 #### Timeseries
 
+* [**PyFlux**](https://www.google.com/url?q=https%3A%2F%2Fpyflux.readthedocs.io%2Fen%2Flatest%2F&sa=D&sntz=1&usg=AFQjCNHCg1vR61bqPXEyNrGijHAsSUMxMw): It is an open source library in Python explicitly built for working with **time series** problems. The library has an excellent array of modern time series models including but not limited to **ARIMA, GARCH** and **VAR** models. In short, PyFlux offers a probabilistic approach to time series modelling.
 * [**Darts**](https://github.com/unit8co/darts): It is a Python library for easy manipulation and forecasting of time series.
 
 #### Data Analysis tools
