@@ -18,9 +18,17 @@ Este es un blog de notas donde incluyo una lista de librerías Python o recursos
 * [**Scipy**](https://www.google.com/url?q=https%3A%2F%2Fdocs.scipy.org%2Fdoc%2Fscipy%2Freference%2Fsearch.html%3Fq%3D&sa=D&sntz=1&usg=AFQjCNGNXBUPdYUxISTCIaC-aIrDOQxvyw)
 * [**Click**](http://www.google.com/url?q=http%3A%2F%2Fclick.pocoo.org%2F5%2F&sa=D&sntz=1&usg=AFQjCNGrBm4ncdPVx7gzt80rrQXO0WaEPQ): sencilla librería que ayuda bastante en el control de los argumentos pasados a un Python script desde terminal y propriona un print customizable.
 
+#### Automatic Data Analysis
+
+* [**Pandas-Profiling**](https://pypi.org/project/pandas-profiling/): Ya lo he probado [aqui](https://github.com/jmquintana79/utilsDS/blob/master/notebooks/analysis/autoEDA/notebook-auto_eda-pandas_profiling.ipynb).
+* [**SweetViz**](https://www.analyticsvidhya.com/blog/2021/01/making-exploratory-data-analysis-sweeter-with-sweetviz-2-0/): Es muy interesante por el report que devuelve. Ya lo he probado [aqui](https://github.com/jmquintana79/utilsDS/blob/master/notebooks/analysis/autoEDA/notebook-auto_eda-SweetViz.ipynb).
+* [**PandasGUI**](https://pypi.org/project/pandasgui/): Ya lo he probado [aqui](https://github.com/jmquintana79/utilsDS/blob/master/notebooks/analysis/autoEDA/notebook-auto_eda-PandasGUI.ipynb).
+* [**dataprep**](https://pypi.org/project/dataprep/): Ademas de ser una libreria para data preparation, tiene una herramienta EDA interesante. Ya lo he probado [aqui](https://github.com/jmquintana79/utilsDS/blob/master/notebooks/analysis/autoEDA/notebook-auto_eda-dataprep.ipynb). 
+
 #### Data preparation and Features engineering
 
 * [**datacleaner**](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Frhiever%2Fdatacleaner&sa=D&sntz=1&usg=AFQjCNE3HhQ488Ybd0bU3FsEdQwlg4WlyQ): interesante librería que permite la preparación y limpieza de datos automáticamente mediante linea de comandos y Python scripting.
+* [**dataprep**](https://pypi.org/project/dataprep/): Ademas de ser una libreria para data preparation, tiene una herramienta EDA interesante. 
 
 #### Machine Learning
 

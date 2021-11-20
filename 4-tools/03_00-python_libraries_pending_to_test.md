@@ -27,4 +27,4 @@ nav_order: 4
 
 #### Data Analysis tools
 * [Comparison of F-test and mutual information](https://scikit-learn.org/stable/auto_examples/feature_selection/plot_f_test_vs_mi.html)
-* 
+
