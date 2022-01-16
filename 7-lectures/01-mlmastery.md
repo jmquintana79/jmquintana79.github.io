@@ -41,4 +41,7 @@ nav_order: 7
 - [ ] [Naive Bayes Classifier From Scratch in Python](https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/)
 
 
+## Python
+
+- [ ] [Python debugging tools](https://machinelearningmastery.com/python-debugging-tools/?utm_source=drip&utm_medium=email&utm_campaign=Python+debugging+tools&utm_content=Python+debugging+tools) 
  
