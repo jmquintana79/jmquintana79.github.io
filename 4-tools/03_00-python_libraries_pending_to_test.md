@@ -33,6 +33,7 @@ nav_order: 4
 
 #### Data Analysis tools
 * [Comparison of F-test and mutual information](https://scikit-learn.org/stable/auto_examples/feature_selection/plot_f_test_vs_mi.html)
+* [**statistics**](https://docs.python.org/3/library/statistics.html): Es una libreria ademas de calcular medias de centralidad y varianza de un sample, tambien lo hace estima la de la poblacion. Ademas, aporta nuevos tipos de datos como fracciones y regresion lineal entre dos variables muy facil de usar.
 
 #### Auto-EDA tools
 
