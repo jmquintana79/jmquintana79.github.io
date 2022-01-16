@@ -29,6 +29,7 @@ nav_order: 4
 
 * [**PyFlux**](https://www.google.com/url?q=https%3A%2F%2Fpyflux.readthedocs.io%2Fen%2Flatest%2F&sa=D&sntz=1&usg=AFQjCNHCg1vR61bqPXEyNrGijHAsSUMxMw): It is an open source library in Python explicitly built for working with **time series** problems. The library has an excellent array of modern time series models including but not limited to **ARIMA, GARCH** and **VAR** models. In short, PyFlux offers a probabilistic approach to time series modelling.
 * [**Darts**](https://github.com/unit8co/darts): It is a Python library for easy manipulation and forecasting of time series.
+* [**tslearn**](https://github.com/tslearn-team/tslearn): The machine learning toolkit for time series analysis in Python.
 
 #### Data Analysis tools
 * [Comparison of F-test and mutual information](https://scikit-learn.org/stable/auto_examples/feature_selection/plot_f_test_vs_mi.html)
