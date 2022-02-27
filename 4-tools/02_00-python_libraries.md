@@ -18,6 +18,12 @@ Este es un blog de notas donde incluyo una lista de librerías Python o recursos
 * [**Scipy**](https://www.google.com/url?q=https%3A%2F%2Fdocs.scipy.org%2Fdoc%2Fscipy%2Freference%2Fsearch.html%3Fq%3D&sa=D&sntz=1&usg=AFQjCNGNXBUPdYUxISTCIaC-aIrDOQxvyw)
 * [**Click**](http://www.google.com/url?q=http%3A%2F%2Fclick.pocoo.org%2F5%2F&sa=D&sntz=1&usg=AFQjCNGrBm4ncdPVx7gzt80rrQXO0WaEPQ): sencilla librería que ayuda bastante en el control de los argumentos pasados a un Python script desde terminal y propriona un print customizable.
 
+#### Interacción con OS
+
+* [**os**](https://docs.python.org/3/library/os.html)
+* [**sys**](https://docs.python.org/3/library/sys.html)
+* [**invoke**](https://www.pyinvoke.org/#): funcionalidad de *make* pero con Python. 
+
 #### Automatic Data Analysis
 
 * [**Pandas-Profiling**](https://pypi.org/project/pandas-profiling/): Ya lo he probado [aqui](https://github.com/jmquintana79/utilsDS/blob/master/notebooks/analysis/autoEDA/notebook-auto_eda-pandas_profiling.ipynb).
