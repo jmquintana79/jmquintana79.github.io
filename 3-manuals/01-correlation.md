@@ -1,7 +1,7 @@
 ---
 title: "Correlation"
+parent: Manuales
 has_children: false
-nav_exclude: false
 ---
 
 # Correlation
